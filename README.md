@@ -44,7 +44,10 @@ Custom domain را انتخاب کنید.
 
 
 
+
 v2.google.com/db7dfe45-b10c-457c-81d2-0c934f3b0100
+
+
 در اینجا db7dfe45-b10c-457c-81d2-0c934f3b0100 UUID شما است.
 
 
