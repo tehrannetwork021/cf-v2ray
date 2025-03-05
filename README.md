@@ -15,9 +15,13 @@
 به بخش Settings ورکر خود بروید.
 در قسمت Variables and Secrets، روی Add کلیک کنید.
 موارد زیر را وارد کنید:
+
 Variable name: proxyip
+
 Value: ts.hpc.tw
+
 Type: txt
+
 برای افزودن UUID خود:
 از ابزارهای آنلاین یا برنامه‌های تولید UUID(خودv2rayng) استفاده کنید.
 در قسمت Variable name: uuid وارد کنید.
