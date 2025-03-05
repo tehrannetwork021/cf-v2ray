@@ -6,12 +6,7 @@
 
 به بخش Workers بروید و یک ورکر جدید بسازید.
 
-کد زیر را در قسمت ویرایشگر ورکر خود کپی کنید:
-
-javascript
-Copy
-Edit
-Create Cloudflare_vless__worker.js
+کد موجود در فایل  Cloudflare_vless__worker.js را در ورکر خود کپی کنید 
 تغییرات را ذخیره کنید.
 
 2️⃣ اضافه کردن UUID و Proxy IP به بخش "Variables and Secrets"
@@ -24,7 +19,7 @@ Variable name: proxyip
 Value: ts.hpc.tw
 Type: txt
 برای افزودن UUID خود:
-از ابزارهای آنلاین یا برنامه‌های تولید UUID استفاده کنید.
+از ابزارهای آنلاین یا برنامه‌های تولید UUID(خودv2rayng) استفاده کنید.
 در قسمت Variable name: uuid وارد کنید.
 در قسمت Value، UUID خود را وارد کنید.
 نوع (Type) را همچنان روی txt بگذارید.
